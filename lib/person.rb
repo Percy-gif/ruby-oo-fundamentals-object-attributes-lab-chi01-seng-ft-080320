@@ -2,6 +2,10 @@ class Person
   def name=(name)
   end 
   
-  def 
+  def name 
+    @name 
+  end 
+  
+  
 end 
 
